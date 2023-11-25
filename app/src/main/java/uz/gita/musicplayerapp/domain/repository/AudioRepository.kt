@@ -1,0 +1,1 @@
+package uz.gita.musicplayerapp.domain.repositoryimport uz.gita.musicplayerapp.data.models.AudioModelinterface AudioRepository {    suspend fun getAudioData(): List<AudioModel>}

@@ -1,0 +1,1 @@
+package uz.gita.musicplayerapp.data.source.localimport uz.gita.musicplayerapp.data.models.AudioModelinterface ContentResolverHelper {    suspend fun getAudioData(): List<AudioModel>}
